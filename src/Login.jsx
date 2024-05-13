@@ -36,7 +36,7 @@ const Login = () => {
               className="block mx-auto text-white text-3xl font-semibold leading-none"
               href="#"
             >
-              StoryTaleAi
+              StoryTalsAi
             </a>
             <form
               onChange={(e) => setUserInput(e.target.value)}
